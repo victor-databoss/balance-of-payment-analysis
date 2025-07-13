@@ -28,17 +28,17 @@ To analyze and compare the Balance of Payments trends for five European countrie
 
 ## Key Findings
 
-### 🔹 Current Account Balance
+### Current Account Balance
 - Germany had the largest surplus and maintained it steadily from 2015 to 2023.
 - Spain, Poland, and Sweden showed improvements in their current account positions.
 - Greece remained in deficit throughout the period.
 
-### 🔹 Trade Balance (Exports – Imports)
+### Trade Balance (Exports – Imports)
 - Germany continues to dominate with the highest surplus.
 - Spain and Poland saw positive trade shifts and rising surpluses.
 - Greece showed little change and remained in deficit.
 
-### 🔹 FDI Inflows (Foreign Direct Investment)
+### FDI Inflows (Foreign Direct Investment)
 Between 2015 and 2023:
 - **Greece** recorded the **highest percentage increase** (+272%), recovering from a low base.
 - **Poland** (+117%), **Spain** (+81%), and **Sweden** (+84%) all showed strong FDI growth.
