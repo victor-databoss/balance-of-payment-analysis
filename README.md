@@ -1,4 +1,5 @@
 # Balance of Payments Analysis (2015–2023)
+![FDI Trend Chart](FDI_plot.png)
 
 **Countries Analyzed:** Germany, Spain, Sweden, Poland, Greece  
 **Tools Used:** Python (`pandas`, `seaborn`, `matplotlib`)  
